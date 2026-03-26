@@ -5,6 +5,8 @@ reviews:
 
 code_review:
   pull_request_opened:
+    summary: false
+    code_review: false
     include_drafts: false
 
 ignore_patterns:
