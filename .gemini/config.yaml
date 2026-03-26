@@ -10,4 +10,4 @@ code_review:
     include_drafts: false
 
 ignore_patterns:
-  - "package-lock.json"
+  - package-lock.json
