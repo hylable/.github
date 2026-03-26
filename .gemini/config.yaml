@@ -1,0 +1,11 @@
+reviews:
+  instructions: |
+    - すべて日本語でコメントしてください。
+    - 指摘は具体的かつ建設的に行ってください。
+
+code_review:
+  pull_request_opened:
+    include_drafts: false
+
+ignore_patterns:
+  - "package-lock.json"
